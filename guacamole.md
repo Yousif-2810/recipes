@@ -2,5 +2,5 @@
 # Instructions
 # Ingredients
 *avocado
-*lemon
+*lime
 *salt
